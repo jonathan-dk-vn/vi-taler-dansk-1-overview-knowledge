@@ -1,6 +1,6 @@
-## **1. Giới thiệu bản thân**
+## **1. Præsenter dig selv - Giới thiệu bản thân**
 
-### **1.1. Tên và cách đánh vần**
+### **1.1. Navn og stavemåde - Tên và cách đánh vần**
 - **Hvad hedder du?** (Bạn tên là gì?)  
   - **Trả lời:** "Hvad hedder du?" "Jeg hedder Thanh."   
 
@@ -20,7 +20,7 @@
   - **Trả lời:** "Har du et mellemnavn?" "Ja, mit mellemnavn er Van." 
   
 
-### **1.2. Tuổi tác**
+### **1.2. Alder - Tuổi tác**
 - **Hvor gammel er du?**  
   (Bạn bao nhiêu tuổi?)  
   - **Trả lời:** "Hvor gammel er du?" "Jeg er 24 år."
@@ -31,7 +31,7 @@
   - **Trả lời:** "Hvilket år er du født i?" "Tôi sinh năm 2001."
   (Bạn sinh năm nào?)  
 
-### **1.3. Quê quán và ngôn ngữ**
+### **1.3. Hjemby og sprog - Quê quán và ngôn ngữ**
 - **Hvor kommer du fra?**  
   (Bạn đến từ đâu?)  
   - **Trả lời:** "Hvor kommer du fra?" "Jeg kommer fra Vietnam."
@@ -51,7 +51,7 @@
   - **Trả lời:** "Hvordan har du lært dansk?" "Tôi đã học tiếng Đan Mạch ở trường và tự học ở nhà."
   (Bạn đã học tiếng Đan Mạch như thế nào?)  
 
-### **1.4. Tình trạng hôn nhân và mối quan hệ**
+### **1.4. Civilstand og forhold - Tình trạng hôn nhân và mối quan hệ**
 - **Er du gift?**  
   (Bạn đã kết hôn chưa?)  
   - **Trả lời:** "Er du gift?" "Chưa, tôi chưa kết hôn." 
@@ -69,9 +69,9 @@
 
 ---
 
-## **2. Gia đình**
+## **2. Familie - Gia đình**
 
-### **2.1. Cha mẹ**
+### **2.1. Forældre - Cha mẹ**
 - **Hvad hedder dine forældre?**  
   - **Trả lời:** "Hvad hedder dine forældre?" "Cha của tôi tên Quang và mẹ của tôi tên Sen." 
   (Cha mẹ bạn tên là gì?)  
@@ -88,7 +88,7 @@
   - **Trả lời:** "Lever dine forældre stadig?" "Cha của tôi đã mất năm cha tôi 49 tuổi và mẹ của tôi còn sống." 
   (Cha mẹ bạn còn sống không?)  
 
-### **2.2. Anh chị em**
+### **2.2. Søskende - Anh chị em**
 - **Har du nogen søskende?**  
   - **Trả lời:** "Har du nogen søskende?" "Vâng, tôi có một chị gái."
   (Bạn có anh chị em nào không?)  
@@ -114,7 +114,7 @@
   - **Trả lời:** "Hvad laver dine søskende?" "Chị của tôi là một kỹ thuật viên nail." 
   (Anh chị em bạn làm gì?)  
 
-### **2.3. Con cái**
+### **2.3. Børn - Con cái**
 - **Har du børn?**  
   - **Trả lời:** "Har du børn?" "Nej, det har jeg ikke." 
   (Bạn có con chưa?)  
@@ -133,7 +133,7 @@
 - **Går dine børn i skole?**  
   (Con bạn có đi học không?)  
 
-### **2.4. Gia đình mở rộng**
+### **2.4. Udvidet familie - Gia đình mở rộng**
 - **Hvor mange søskende har dine forældre?**  
   - **Trả lời:** "Hvor mange søskende har dine forældre?" "Min mor har to, og min far har to."  
   (Bố mẹ bạn có bao nhiêu anh chị em?)  
@@ -161,7 +161,7 @@
   - **Trả lời:** "Hvor bor dine bedsteforældre?" "Bà của tôi sống ở Việt Nam."  
   (Ông bà bạn sống ở đâu?)  
 
-### **2.5. Mối quan hệ gia đình**
+### **2.5. Familieforhold - Mối quan hệ gia đình**
 - **Hvad sprog taler I i familien?**  
   - **Trả lời:** "Hvad sprog taler I sammen?" "Chúng tôi nói tiếng Việt với nhau."   
   (Gia đình bạn nói chuyện bằng ngôn ngữ gì?)  
@@ -180,9 +180,9 @@
 
 ---
 
-## **3. Công việc và học tập**
+## **3. Arbejde og studier - Công việc và học tập**
 
-### **3.1. Công việc**
+### **3.1. Arbejde - Công việc**
 - **Har du arbejde?**  
   - **Trả lời:** "Har du arbejde?" "Ja, det har jeg."  
   (Bạn có việc làm không?)  
@@ -217,7 +217,7 @@
   - **Trả lời:** "Kan du lide dit arbejde?" "Tôi rất thích vông việc của tôi."   
   (Bạn có thích công việc của mình không?)  
 
-### **3.2. Học tập**
+### **3.2. Studere - Học tập**
 - **Går du i skole?**  
   - **Trả lời:** "Går du på sprogskole?" "Không, tôi không đến trường."  
   (Bạn có đi học không?)  
@@ -248,9 +248,9 @@
 
 ---
 
-## **4. Nơi ở**
+## **4. Bopæl - Nơi ở**
 
-### **4.1. Địa điểm**
+### **4.1. Beliggenhed - Địa điểm**
 - **Hvor bor du?**  
   - **Trả lời:** "Hvor bor du?" "Jeg bor i Skærbæk."  
   (Bạn sống ở đâu?)  
@@ -270,7 +270,7 @@
   (Bạn đã sống ở đâu tại quê hương của bạn?)  
   - **Trả lời:** "Hvor boede du i dit hjemland?" "Tôi sống ở thành phố Hồ Chí Minh tại quê hương của tôi."   
 
-### **4.2. Loại chỗ ở**
+### **4.2. Indkvarteringstype - Loại chỗ ở**
 - **Hvordan bor du?**  
   (Bạn sống như thế nào?)  
   - **Trả lời:** "Hvordan bor du?" "Jeg bor i en lejlighed."  
@@ -290,7 +290,7 @@
   - **Trả lời:** "Hvordan er dit hjem?" "Căn hộ của tôi rất tiện nghi."  
   (Nhà của bạn như thế nào?)  
 
-### **4.3. Người sống cùng**
+### **4.3. Den person, der bor sammen - Người sống cùng**
 - **Bor du alene eller sammen med nogen?**  
   (Bạn sống một mình hay cùng với ai đó?)  
   - **Trả lời:** "Bor du alene eller sammen med nogen?" "Jeg bor alene."  
@@ -300,7 +300,7 @@
 - **Hvor mange bor I sammen?**  
   (Có bao nhiêu người sống cùng nhau?)   
 
-### **4.4. Liên lạc**
+### **4.4. Kontakte - Liên lạc**
 - **Hvad er dit telefonnummer?**  
   - **Trả lời:** "Hvad er dit telefonnummer?" "Mit telefonnummer er 50 22 25 71."
   (Số điện thoại của bạn là gì?)  
@@ -319,9 +319,9 @@
 
 ---
 
-## **5. Thói quen hàng ngày**
+## **5. Daglig rutine - Thói quen hàng ngày**
 
-### **5.1. Buổi sáng**
+### **5.1. Morgen - Buổi sáng**
 - **Hvornår står du op?**  
   (Bạn thức dậy lúc mấy giờ?)  
   - **Trả lời:** "Hvornår står du op?" "Jeg står op klokken fem." 
@@ -344,7 +344,7 @@
   - **Trả lời:** "Drikker du kaffe om morgenen?" "Vâng, tôi có uống cà phê sữa vào mỗi buổi sáng."
   (Bạn có uống cà phê vào buổi sáng không?)  
 
-### **5.2. Ban ngày**
+### **5.2. Dag - Ban ngày**
 - **Hvad laver du om dagen?**  
   - **Trả lời:** "Hvad laver du om dagen?" "Jeg går på arbejde." 
   (Bạn làm gì vào ban ngày?)  
@@ -367,7 +367,7 @@
   - **Trả lời:** "Hvor lang tid har du til frokost?" "Tôi có 1 tiếng để ăn trưa." 
   (Bạn có bao nhiêu thời gian để ăn trưa?)  
 
-### **5.3. Buổi tối**
+### **5.3. Aften - Buổi tối**
 - **Hvornår spiser du aftensmad?**  
   - **Trả lời:** "Hvornår spiser du aftensmad?" "Klokken 18.30." (Lydfil 87)  
   (Bạn ăn tối lúc mấy giờ?)  
@@ -391,7 +391,7 @@
 - **Hvor længe ser du fjernsyn om aftenen?**  
   (Bạn xem TV bao lâu vào buổi tối?)  
 
-### **5.4. Công việc nhà**
+### **5.4. Husarbejde - Công việc nhà**
 - **Hvornår gør du rent?**  
   (Bạn dọn dẹp lúc nào?)  
   - **Trả lời:** "Hvornår gør du rent?" "Lørdag formiddag." (Lydfil 84)  
@@ -418,9 +418,9 @@
 
 ---
 
-## **6. Sở thích và hoạt động giải trí**
+## **6. Hobbyer og fritidsaktiviteter - Sở thích và hoạt động giải trí**
 
-### **6.1. Sở thích ăn uống**
+### **6.1. Madpræferencer - Sở thích ăn uống**
 - **Hvad kan du lide at spise?**  
   (Bạn thích ăn gì?)  
   - **Trả lời:** "Hvad kan du lide at spise?" "Jeg kan godt lide smørrebrød." (Lydfil 76)  
@@ -441,7 +441,7 @@
 - **Kan du lide at lave mad?**  
   (Bạn có thích nấu ăn không?)  
 
-### **6.2. Hoạt động trong thời gian rảnh**
+### **6.2. Fritidsaktiviteter - Hoạt động trong thời gian rảnh**
 - **Hvad laver du i din fritid?**  
   (Bạn làm gì trong thời gian rảnh?)  
   - **Trả lời:** "Hvad laver du i din fritid?" "Jeg læser bøger og hører musik." (Lydfil 85)  
@@ -469,7 +469,7 @@
 - **Hvilke spil spiller du?**  
   (Bạn chơi trò chơi nào?)  
 
-### **6.3. Thể thao và vận động**
+### **6.3. Sport og motion - Thể thao và vận động**
 - **Løber du?**  
   (Bạn có chạy bộ không?)  
   - **Trả lời:** "Løber du?" "Ja, jeg løber en tur om morgenen." (Lydfil 87)  
@@ -494,7 +494,7 @@
 
 ---
 
-## **7. Di chuyển và giao thông**
+## **7. Rejser og trafik - Di chuyển và giao thông**
 
 - **Hvordan kommer du på arbejde/skole?**  
   (Bạn đến nơi làm việc/trường học bằng cách nào?)  
@@ -522,7 +522,7 @@
 
 ---
 
-## **8. Mua sắm và chi tiêu**
+## **8. Indkøb og forbrug - Mua sắm và chi tiêu**
 
 - **Hvad koster det?**  
   (Cái đó giá bao nhiêu?)  
@@ -548,7 +548,7 @@
 
 ---
 
-## **9. Sức khỏe và cảm giác**
+## **9. Sundhed og følelse - Sức khỏe và cảm giác**
 
 - **Hvordan har du det?**  
   (Bạn khỏe không?)  
@@ -573,7 +573,7 @@
 
 ---
 
-## **10. Thời gian và lịch trình**
+## **10. Tid og tidsplan - Thời gian và lịch trình**
 
 - **Hvad er klokken?**  
   (Mấy giờ rồi?)  
@@ -596,4 +596,3 @@
 - **Hvornår har du fri?**  
   (Khi nào bạn được nghỉ?)  
 
----
