@@ -21,80 +21,78 @@
   
 
 ### **1.2. Alder - Tuổi tác**
-- **Hvor gammel er du?**  
-  (Bạn bao nhiêu tuổi?)  
+- **Hvor gammel er du?** (Bạn bao nhiêu tuổi?)  
   - **Trả lời:** "Hvor gammel er du?" "Jeg er 24 år."
-- **Hvornår er du født?**  
+
+- **Hvornår er du født?** (Bạn sinh ngày nào?)  
   - **Trả lời:** "Hvornår er du født?" "Tôi sinh ngày 20 tháng 08 năm 2001."
-  (Bạn sinh ngày nào?)  
-- **Hvilket år er du født i?**  
+  
+- **Hvilket år er du født i?** (Bạn sinh năm nào?)  
   - **Trả lời:** "Hvilket år er du født i?" "Tôi sinh năm 2001."
-  (Bạn sinh năm nào?)  
+   
 
 ### **1.3. Hjemby og sprog - Quê quán và ngôn ngữ**
-- **Hvor kommer du fra?**  
-  (Bạn đến từ đâu?)  
+- **Hvor kommer du fra?** (Bạn đến từ đâu?)  
   - **Trả lời:** "Hvor kommer du fra?" "Jeg kommer fra Vietnam."
-- **Hvor er du født?**  
+
+- **Hvor er du født?** (Bạn sinh ra ở đâu?)  
   - **Trả lời:** "Hvor er du født??" "Tôi sinh ra ở Việt Nam."
-  (Bạn sinh ra ở đâu?)  
-- **Hvad sprog taler du?**  
-  (Bạn nói ngôn ngữ gì?)  
+  
+- **Hvad sprog taler du?** (Bạn nói ngôn ngữ gì?)  
   - **Trả lời:** "Hvad sprog taler du?" "Tôi nói tiếng Việt, tiếng Anh và một chút tiếng Đan Mạch."  
-- **Hvor mange sprog taler du?**  
+
+- **Hvor mange sprog taler du?** (Bạn nói được bao nhiêu ngôn ngữ?)  
   - **Trả lời:** "Hvor mange sprog taler du?" "Tôi nói được 3 ngôn ngữ."
-  (Bạn nói được bao nhiêu ngôn ngữ?)  
-- **Taler du dansk derhjemme?**  
+  
+- **Taler du dansk derhjemme?** (Bạn có nói tiếng Đan Mạch ở nhà không?)   
   - **Trả lời:** "Taler du dansk derhjemme?" "Vâng, tôi có nói tiếng Đan Mạch ở nhà."
-  (Bạn có nói tiếng Đan Mạch ở nhà không?)  
-- **Hvordan har du lært dansk?**  
+  
+- **Hvordan har du lært dansk?** (Bạn đã học tiếng Đan Mạch như thế nào?) 
   - **Trả lời:** "Hvordan har du lært dansk?" "Tôi đã học tiếng Đan Mạch ở trường và tự học ở nhà."
-  (Bạn đã học tiếng Đan Mạch như thế nào?)  
 
 ### **1.4. Civilstand og forhold - Tình trạng hôn nhân và mối quan hệ**
-- **Er du gift?**  
-  (Bạn đã kết hôn chưa?)  
+- **Er du gift?** (Bạn đã kết hôn chưa?)  
   - **Trả lời:** "Er du gift?" "Chưa, tôi chưa kết hôn." 
-- **Har du en kæreste?**  
-  (Bạn có người yêu chưa?)  
+
+- **Har du en kæreste?** (Bạn có người yêu chưa?)  
   - **Trả lời:** "Har du en kæreste?" "Chưa, tôi chưa có người yêu." 
-- **Hvor længe har du været gift?**  
-  (Bạn kết hôn bao lâu rồi?)  
-- **Hvornår blev du gift?**  
-  (Bạn kết hôn khi nào?)  
-- **Hvad hedder din mand/kone?**  
-  (Chồng/vợ bạn tên là gì?)  
-- **Hvor længe har du haft en kæreste?**  
-  (Bạn có người yêu bao lâu rồi?)  
+
+- **Hvor længe har du været gift?** (Bạn kết hôn bao lâu rồi?)  
+
+- **Hvornår blev du gift?** (Bạn kết hôn khi nào?)  
+
+- **Hvad hedder din mand/kone?** (Chồng/vợ bạn tên là gì?)  
+
+- **Hvor længe har du haft en kæreste?** (Bạn có người yêu bao lâu rồi?)  
 
 ---
 
 ## **2. Familie - Gia đình**
 
 ### **2.1. Forældre - Cha mẹ**
-- **Hvad hedder dine forældre?**  
+- **Hvad hedder dine forældre?** (Cha mẹ bạn tên là gì?)
   - **Trả lời:** "Hvad hedder dine forældre?" "Cha của tôi tên Quang và mẹ của tôi tên Sen." 
-  (Cha mẹ bạn tên là gì?)  
-- **Hvor gamle er dine forældre?**  
+    
+- **Hvor gamle er dine forældre?** (Cha mẹ bạn bao nhiêu tuổi?) 
   - **Trả lời:** "Hvor gamle er dine forældre?" "Cha của tôi đã mất năm cha tôi 49 tuổi và mẹ của tôi 48 tuổi." 
-  (Cha mẹ bạn bao nhiêu tuổi?)  
-- **Hvor bor dine forældre?**  
+   
+- **Hvor bor dine forældre?** (Cha mẹ bạn sống ở đâu?) 
   - **Trả lời:** "Hvor bor dine forældre?" "Mẹ của tôi sống ở Việt Nam." 
-  (Cha mẹ bạn sống ở đâu?)  
-- **Hvad laver dine forældre?**  
+   
+- **Hvad laver dine forældre?** (Cha mẹ bạn làm gì?)  
   - **Trả lời:** "Hvad laver dine forældre?" "Mẹ của tôi là một nội trợ." 
-  (Cha mẹ bạn làm gì?)  
-- **Lever dine forældre stadig?**  
+   
+- **Lever dine forældre stadig?** (Cha mẹ bạn còn sống không?)
   - **Trả lời:** "Lever dine forældre stadig?" "Cha của tôi đã mất năm cha tôi 49 tuổi và mẹ của tôi còn sống." 
-  (Cha mẹ bạn còn sống không?)  
+    
 
 ### **2.2. Søskende - Anh chị em**
-- **Har du nogen søskende?**  
+- **Har du nogen søskende?** (Bạn có anh chị em nào không?)
   - **Trả lời:** "Har du nogen søskende?" "Vâng, tôi có một chị gái."
-  (Bạn có anh chị em nào không?)  
-- **Hvor mange søskende har du?**  
+    
+- **Hvor mange søskende har du?** (Bạn có bao nhiêu anh chị em?)
   - **Trả lời:** "Hvor mange søskende har du?" "Tôi có một chị gái."
-  (Bạn có bao nhiêu anh chị em?) 
+   
 - **Er det brødre eller søstre?**  
   - **Trả lời:** "Er det brødre eller søstre?" "Đó có một chị gái."
   (Đó là anh trai hay chị gái?)  
@@ -369,25 +367,25 @@
 
 ### **5.3. Aften - Buổi tối**
 - **Hvornår spiser du aftensmad?**  
-  - **Trả lời:** "Hvornår spiser du aftensmad?" "Klokken 18.30." (Lydfil 87)  
+  - **Trả lời:** "Hvornår spiser du aftensmad?" "Klokken 18.30."  
   (Bạn ăn tối lúc mấy giờ?)  
 - **Hvor spiser du aftensmad?**  
   (Bạn ăn tối ở đâu?)  
-  - **Trả lời:** "Hvor spiser du aftensmad?" "Hjemme." (Lydfil 87)  
+  - **Trả lời:** "Hvor spiser du aftensmad?" "Hjemme."  
 - **Med hvem spiser du aftensmad?**  
   (Bạn ăn tối với ai?)  
-  - **Trả lời:** "Med hvem spiser du aftensmad?" "Med min kæreste." (Lydfil 87)  
+  - **Trả lời:** "Med hvem spiser du aftensmad?" "Med min kæreste."  
 - **Hvad spiser du til aftensmad?**  
   (Bạn ăn gì vào bữa tối?)  
-  - **Trả lời:** "Hvad spiser du til aftensmad?" "Fisk eller kylling." (Lydfil 87)  
+  - **Trả lời:** "Hvad spiser du til aftensmad?" "Fisk eller kylling."  
 - **Hvad drikker du til aftensmad?**  
   (Bạn uống gì vào bữa tối?)  
 - **Hvad laver du om aftenen?**  
   (Bạn làm gì vào buổi tối?)  
-  - **Trả lời:** "Hvad laver du om aftenen?" "Jeg ser fjernsyn eller går en tur." (Lydfil 87)  
+  - **Trả lời:** "Hvad laver du om aftenen?" "Jeg ser fjernsyn eller går en tur."  
 - **Hvornår går du i seng?**  
   (Bạn đi ngủ lúc mấy giờ?)  
-  - **Trả lời:** "Hvornår går du i seng?" "Klokken 23." (Lydfil 87)  
+  - **Trả lời:** "Hvornår går du i seng?" "Klokken 23."  
 - **Hvor længe ser du fjernsyn om aftenen?**  
   (Bạn xem TV bao lâu vào buổi tối?)  
 
@@ -447,7 +445,7 @@
   - **Trả lời:** "Hvad laver du i din fritid?" "Jeg læser bøger og hører musik." (Lydfil 85)  
 - **Hvad laver du i weekenden?**  
   (Bạn làm gì vào cuối tuần?)  
-  - **Trả lời:** "Hvad laver du i weekenden?" "Jeg besøger venner eller får gæster." (Lydfil 87)  
+  - **Trả lời:** "Hvad laver du i weekenden?" "Jeg besøger venner eller får gæster."  
 - **Kan du lide at læse bøger?**  
   (Bạn có thích đọc sách không?)  
   - **Trả lời:** "Kan du lide at læse bøger?" "Ja, jeg kan godt lide at læse." (Lydfil 85)  
@@ -460,7 +458,7 @@
   (Bạn thích loại nhạc nào?)  
 - **Ser du fjernsyn?**  
   (Bạn có xem TV không?)  
-  - **Trả lời:** "Ser du fjernsyn?" "Ja, jeg ser fjernsyn om aftenen." (Lydfil 87)  
+  - **Trả lời:** "Ser du fjernsyn?" "Ja, jeg ser fjernsyn om aftenen."  
 - **Hvad ser du på fjernsynet?**  
   (Bạn xem gì trên TV?)  
 - **Spiller du computerspil?**  
@@ -472,7 +470,7 @@
 ### **6.3. Sport og motion - Thể thao và vận động**
 - **Løber du?**  
   (Bạn có chạy bộ không?)  
-  - **Trả lời:** "Løber du?" "Ja, jeg løber en tur om morgenen." (Lydfil 87)  
+  - **Trả lời:** "Løber du?" "Ja, jeg løber en tur om morgenen."  
 - **Hvor løber du?**  
   (Bạn chạy bộ ở đâu?)  
 - **Går du i fitnesscenteret?**  
@@ -486,7 +484,7 @@
   - **Trả lời:** "Svømmer du?" "Ja, jeg går i svømmehallen." (Lydfil 86)  
 - **Går du til yoga?**  
   (Bạn có đi tập yoga không?)  
-  - **Trả lời:** "Går du til yoga?" "Ja, mandag aften." (Lydfil 87)  
+  - **Trả lời:** "Går du til yoga?" "Ja, mandag aften."  
 - **Hvor tit træner du?**  
   (Bạn tập thể dục bao lâu một lần?)  
 - **Hvilken sport kan du lide?**  
@@ -583,7 +581,7 @@
   - **Trả lời:** "Hvornår tager du afsted?" "Klokken 17:25." (Lydfil 48)  
 - **Hvornår kommer du hjem?**  
   (Bạn về nhà lúc nào?)  
-  - **Trả lời:** "Hvornår kommer du hjem?" "Klokken 6." (Lydfil 87)  
+  - **Trả lời:** "Hvornår kommer du hjem?" "Klokken 6."  
 - **Hvor længe bliver du [địa điểm]?**  
   (Bạn ở [địa điểm] bao lâu?)  
 - **Hvor længe har du [làm gì đó]?**  
