@@ -1,24 +1,24 @@
 ## **1. Giới thiệu bản thân**
 
 ### **1.1. Tên và cách đánh vần**
-- **Hvad hedder du?**  
-  (Bạn tên là gì?)  
+- **Hvad hedder du?** (Bạn tên là gì?)  
   - **Trả lời:** "Hvad hedder du?" "Jeg hedder Thanh."   
-- **Hvad hedder du til fornavn?**  
-  (Tên của bạn là gì?)  
+
+- **Hvad hedder du til fornavn?** (Tên của bạn là gì?)  
   - **Trả lời:** "Hvad hedder du til fornavn?" "Jeg hedder Thanh."
-- **Hvad hedder du til efternavn?**  
-  (Họ của bạn là gì?)  
+
+- **Hvad hedder du til efternavn?** (Họ của bạn là gì?)  
   - **Trả lời:** "Hvad hedder du til efternavn?" "Nguyen."
-- **Hvordan staver du dit navn?**  
-  (Bạn đánh vần tên mình như thế nào?)  
+
+- **Hvordan staver du dit navn?** (Bạn đánh vần tên mình như thế nào?)  
   - **Trả lời:** "Hvordan staver du det?" "Ja, N G U Y E N." 
-- **Er det dit fulde navn?**  
-  (Đó có phải là tên đầy đủ của bạn không?)  
+
+- **Er det dit fulde navn?** (Đó có phải là tên đầy đủ của bạn không?)  
   - **Trả lời:** "Er det dit fulde navn?" "Nej, mit fulde navn er Van Thanh Nguyen." 
-- **Har du et mellemnavn?**  
+
+- **Har du et mellemnavn?** (Bạn có tên đệm không?)  
   - **Trả lời:** "Har du et mellemnavn?" "Ja, mit mellemnavn er Van." 
-  (Bạn có tên đệm không?)  
+  
 
 ### **1.2. Tuổi tác**
 - **Hvor gammel er du?**  
@@ -341,33 +341,36 @@
   - **Trả lời:** "Er du sulten om morgenen?" "Ja, jeg er sulten om morgenen."
   (Bạn có đói vào buổi sáng không?)  
 - **Drikker du kaffe om morgenen?**  
+  - **Trả lời:** "Drikker du kaffe om morgenen?" "Vâng, tôi có uống cà phê sữa vào mỗi buổi sáng."
   (Bạn có uống cà phê vào buổi sáng không?)  
 
 ### **5.2. Ban ngày**
 - **Hvad laver du om dagen?**  
+  - **Trả lời:** "Hvad laver du om dagen?" "Jeg går på arbejde." 
   (Bạn làm gì vào ban ngày?)  
-  - **Trả lời:** "Hvad laver du om dagen?" "Jeg går på arbejde." (Lydfil 87)  
 - **Hvornår spiser du frokost?**  
+  - **Trả lời:** "Hvornår spiser du frokost?" "Tôi ăn trưa lúc 12 giờ." 
   (Bạn ăn trưa lúc mấy giờ?)  
-  - **Trả lời:** "Hvornår spiser du frokost?" "Klokken 12.30." 
 - **Hvor spiser du frokost?**  
+  - **Trả lời:** "Hvor spiser du frokost?" "Tôi ăn trưa ở chỗ làm việc." 
   (Bạn ăn trưa ở đâu?)  
-  - **Trả lời:** "Hvor spiser du frokost?" "På arbejde." 
-- **Med hvem spiser du frokost?**  
+- **Med hvem spiser du frokost?** 
+  - **Trả lời:** "Med hvem spiser du frokost?" "Tôi ăn trưa với đồng nghiệp." 
   (Bạn ăn trưa với ai?)  
-  - **Trả lời:** "Med hvem spiser du frokost?" "Med en ven." 
 - **Hvad spiser du til frokost?**  
+  - **Trả lời:** "Hvad spiser du til frokost?" "Tôi ăn cơm và pizza vào bữa trưa." 
   (Bạn ăn gì vào bữa trưa?)  
-  - **Trả lời:** "Hvad spiser du til frokost?" "Smørrebrød." 
 - **Hvad drikker du til frokost?**  
+  - **Trả lời:** "Hvad spiser du til frokost?" "Tôi uống nước ngọt vào bữa trưa." 
   (Bạn uống gì vào bữa trưa?)  
 - **Hvor lang tid har du til frokost?**  
+  - **Trả lời:** "Hvor lang tid har du til frokost?" "Tôi có 1 tiếng để ăn trưa." 
   (Bạn có bao nhiêu thời gian để ăn trưa?)  
 
 ### **5.3. Buổi tối**
 - **Hvornår spiser du aftensmad?**  
-  (Bạn ăn tối lúc mấy giờ?)  
   - **Trả lời:** "Hvornår spiser du aftensmad?" "Klokken 18.30." (Lydfil 87)  
+  (Bạn ăn tối lúc mấy giờ?)  
 - **Hvor spiser du aftensmad?**  
   (Bạn ăn tối ở đâu?)  
   - **Trả lời:** "Hvor spiser du aftensmad?" "Hjemme." (Lydfil 87)  
