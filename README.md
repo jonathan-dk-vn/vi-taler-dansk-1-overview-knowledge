@@ -314,7 +314,7 @@
   - **Trả lời:** "Hvad er din e-mailadresse?" Địa chỉ email của tôi là jonathan.dk.vn@gmail.com
   (Địa chỉ email của bạn là gì?)  
 - **Hvordan kan jeg kontakte dig?**  
-  - **Trả lời:** "Hvad er din e-mailadresse?" Địa chỉ email của tôi là jonathan.dk.vn@gmail.com
+  - **Trả lời:** "Hvordan kan jeg kontakte dig?" Địa chỉ email của tôi là jonathan.dk.vn@gmail.com
   (Làm thế nào để tôi liên lạc với bạn?)  
 
 ---
@@ -324,21 +324,22 @@
 ### **5.1. Buổi sáng**
 - **Hvornår står du op?**  
   (Bạn thức dậy lúc mấy giờ?)  
-  - **Trả lời:** "Hvornår står du op?" "Jeg står op klokken halv syv." (Lydfil 82)  
+  - **Trả lời:** "Hvornår står du op?" "Jeg står op klokken fem." 
 - **Hvad laver du om morgenen?**  
+  - **Trả lời:** "Hvad laver du om morgenen?" "Jeg tager et brusebad og spiser morgenmad." 
   (Bạn làm gì vào buổi sáng?)  
-  - **Trả lời:** "Hvad laver du om morgenen?" "Jeg tager et brusebad og spiser morgenmad." (Lydfil 82)  
 - **Hvornår spiser du morgenmad?**  
+  - **Trả lời:** "Hvornår spiser du morgenmad?" "Klokken 6."
   (Bạn ăn sáng lúc mấy giờ?)  
-  - **Trả lời:** "Hvornår spiser du morgenmad?" "Klokken syv." (Lydfil 64)  
 - **Hvad spiser du til morgenmad?**  
+  - **Trả lời:** "Hvad spiser du til morgenmad?" "Jeg spiser yoghurt og frugt." 
   (Bạn ăn gì vào bữa sáng?)  
-  - **Trả lời:** "Hvad spiser du til morgenmad?" "Jeg spiser yoghurt og frugt." (Lydfil 70)  
 - **Hvor spiser du morgenmad?**  
+  - **Trả lời:** "Hvor spiser du morgenmad?" "Tôi ăn sáng tại căn hộ của tôi." 
   (Bạn ăn sáng ở đâu?)  
 - **Er du sulten om morgenen?**  
+  - **Trả lời:** "Er du sulten om morgenen?" "Ja, jeg er sulten om morgenen."
   (Bạn có đói vào buổi sáng không?)  
-  - **Trả lời:** "Er du sulten om morgenen?" "Nej, jeg er ikke sulten om morgenen." (Lydfil 64)  
 - **Drikker du kaffe om morgenen?**  
   (Bạn có uống cà phê vào buổi sáng không?)  
 
@@ -348,16 +349,16 @@
   - **Trả lời:** "Hvad laver du om dagen?" "Jeg går på arbejde." (Lydfil 87)  
 - **Hvornår spiser du frokost?**  
   (Bạn ăn trưa lúc mấy giờ?)  
-  - **Trả lời:** "Hvornår spiser du frokost?" "Klokken 12.30." (Lydfil 70)  
+  - **Trả lời:** "Hvornår spiser du frokost?" "Klokken 12.30." 
 - **Hvor spiser du frokost?**  
   (Bạn ăn trưa ở đâu?)  
-  - **Trả lời:** "Hvor spiser du frokost?" "På arbejde." (Lydfil 70)  
+  - **Trả lời:** "Hvor spiser du frokost?" "På arbejde." 
 - **Med hvem spiser du frokost?**  
   (Bạn ăn trưa với ai?)  
-  - **Trả lời:** "Med hvem spiser du frokost?" "Med en ven." (Lydfil 70)  
+  - **Trả lời:** "Med hvem spiser du frokost?" "Med en ven." 
 - **Hvad spiser du til frokost?**  
   (Bạn ăn gì vào bữa trưa?)  
-  - **Trả lời:** "Hvad spiser du til frokost?" "Smørrebrød." (Lydfil 70)  
+  - **Trả lời:** "Hvad spiser du til frokost?" "Smørrebrød." 
 - **Hvad drikker du til frokost?**  
   (Bạn uống gì vào bữa trưa?)  
 - **Hvor lang tid har du til frokost?**  
@@ -433,7 +434,7 @@
   - **Trả lời:** "Kan du lide vin og brød?" "Ja, det kan jeg godt." (Lydfil 68)  
 - **Hvad drikker du til maden?**  
   (Bạn uống gì với bữa ăn?)  
-  - **Trả lời:** "Hvad drikker du til maden?" "Jeg drikker vand." (Lydfil 70)  
+  - **Trả lời:** "Hvad drikker du til maden?" "Jeg drikker vand." 
 - **Kan du lide at lave mad?**  
   (Bạn có thích nấu ăn không?)  
 
@@ -551,7 +552,7 @@
   - **Trả lời:** "Hvordan går det?" "Det går godt." (Lydfil 12)  
 - **Er du træt?**  
   (Bạn có mệt không?)  
-  - **Trả lời:** "Er du træt?" "Ja, jeg er stadig træt." (Lydfil 82)  
+  - **Trả lời:** "Er du træt?" "Ja, jeg er stadig træt." 
 - **Er du sulten?**  
   (Bạn có đói không?)  
 - **Er du tørstig?**  
