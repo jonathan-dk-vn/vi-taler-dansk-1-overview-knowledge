@@ -462,7 +462,7 @@
   - Jeg spiller ikke computerspil.
 
 - **Hvilke spil spiller du?** (Bạn chơi trò chơi nào?)  
-  - *(Ingen svar, da jeg ikke spiller computerspil.)*
+  - Jeg ikke spiller computerspil.
 
 ### **6.3. Sport og motion - Thể thao và vận động**
 - **Løber du?** (Bạn có chạy bộ không?)  
